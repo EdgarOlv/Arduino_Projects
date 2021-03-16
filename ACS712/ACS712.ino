@@ -41,6 +41,7 @@ void loop() {
   float I = sensor.getCurrentAC(60);
   float P = V * I;
  
+  Serial.println(String("Tensão = ") + V + " V");
   Serial.println(String("Corrente = ") + I + " A");
   Serial.println(String("Potência  = ") + P + " Watts");
   

@@ -1,0 +1,3 @@
+Pinos utilizados para controle de motores DC : Pinos 11, 3, 5 e 6
+Pinos utilizados para controle de motores de passo : Pinos 4, 7, 8 e 12
+Pinos utilizados para controle de servo motores : Pinos 9 e 10

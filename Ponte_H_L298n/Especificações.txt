@@ -1,0 +1,10 @@
+Tensão de Operação: 4~35v
+Chip: ST L298N (Datasheet)
+Controle de 2 motores DC ou 1 motor de passo
+Corrente de Operação máxima: 2A por canal ou 4A max
+Tensão lógica: 5v
+Corrente lógica: 0~36mA
+Limites de Temperatura: -20 a +135°C
+Potência Máxima: 25W
+Dimensões: 43 x 43 x 27mm
+Peso: 30g

@@ -15,9 +15,9 @@ void loop()
    buttonState = digitalRead(buttonPin);
     if(buttonState== HIGH & troca == false){
     troca = true;
-    delay(150);
+    delay(200);
     }else{
-      delay(150);
+      delay(200);
     if(buttonState== HIGH & troca == true)
       troca = false;
       

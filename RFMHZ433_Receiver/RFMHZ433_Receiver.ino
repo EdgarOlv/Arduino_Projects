@@ -1,6 +1,6 @@
 #include <RCSwitch.h>
  
-//Instacia a Biblioteca
+//Instacia a Biblioteca 
 RCSwitch mySwitch = RCSwitch();
  
  

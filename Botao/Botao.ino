@@ -24,10 +24,10 @@ void loop()
     }
     
   if (troca == HIGH) {
-  digitalWrite(ledPin, HIGH);
-  
+    digitalWrite(ledPin, LOW);
   } 
   else{
-    digitalWrite(ledPin, LOW);
+    digitalWrite(ledPin, HIGH);
+    
   }
 }

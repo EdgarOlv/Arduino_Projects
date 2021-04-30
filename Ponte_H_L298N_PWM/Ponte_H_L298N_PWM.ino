@@ -28,21 +28,21 @@ void loop()
   digitalWrite(IN2, LOW);
   analogWrite(velocidadeA, 155); // valor PWM de 0 a 255
 
-  delay(2000); // importante: a função delay não para o motor
+  delay(1500); // importante: a função delay não para o motor
 
   digitalWrite(IN1, HIGH);
   digitalWrite(IN2, HIGH);
 
-  delay(2000);
+  delay(1500);
 
   //Gira o Motor A no sentido ANTI-HORÁRIO
   digitalWrite(IN1, LOW);
   digitalWrite(IN2, HIGH); 
   analogWrite(velocidadeA, 155); // valor PWM de 0 a 255
 
-  delay(2000);
+  delay(1500);
 
   analogWrite(IN1, HIGH); 
   analogWrite(IN2, HIGH); 
-  delay(2000); 
+  delay(1500); 
 }

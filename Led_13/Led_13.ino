@@ -8,7 +8,7 @@ void setup () {
 void loop () {
   Serial.begin(9600);
   digitalWrite A, HIGH);
-  delay (1000);
+  delay (800);
   digitalWrite (A, LOW);
   delay (1000);
 }

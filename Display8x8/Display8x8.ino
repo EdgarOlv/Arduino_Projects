@@ -66,7 +66,7 @@ void loop() {
   letrad();
   delay(1200);
   letrac();
-  delay(1000);
+  delay(1200);
 
 
 

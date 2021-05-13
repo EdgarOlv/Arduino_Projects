@@ -17,7 +17,7 @@ void loop()
     troca = true;
     delay(150);
     }else{
-      delay(150);
+      delay(200);
     if(buttonState== HIGH & troca == true)
       troca = false;
       

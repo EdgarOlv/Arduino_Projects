@@ -26,7 +26,7 @@ void setup() {
   FALLING: executa-se enquanto o valor vá de 1 a 0 (ou de 5 até 0 Volts).
  */
   
-  attachInterrupt(interrupcao, funcionInterrupcao, FALLING);
+  attachInterrupt(interrupcao, funcionInterrupcao, CHANGE);
   //delay() e millis() não funciona dentro da interrupção
 }
  

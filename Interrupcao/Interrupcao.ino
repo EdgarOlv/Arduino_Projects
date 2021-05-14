@@ -38,7 +38,7 @@ void loop() {
   */
   while(true){
       Serial.print(".");
-      delay(250);
+      delay(300);
   }  
 }
  

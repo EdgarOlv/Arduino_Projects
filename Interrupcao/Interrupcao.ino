@@ -1,6 +1,6 @@
 //Créditos: diwo.bq.com
 
-int interrupcao = 0;
+int interrupcao = 1;
 
 // Interrupt.0 encontra-se no pino digital 2 
 // Interrupt.1 encontra-se no pino digital 3

@@ -9,11 +9,8 @@ and can test. It will be distributed in several folders that can be accessed her
 
 ## Projects
 
--  ![Sensor](ACS712/)
+# Sensors
 
--  [The forums](https://forum.arduino.cc/)
+-  [Sensor](ACS712/)
 
--  Follow us on [Twitter](https://twitter.com/arduino)
--  And like us at [Facebook](https://www.facebook.com/official.arduino)
-
-## Bug reports and technical discussions
+# Actuators

@@ -11,6 +11,6 @@ and can test. It will be distributed in several folders that can be accessed her
 
 # Sensors
 
--  [Sensor](ACS712/)
+-  [ACS712](ACS712/)
 
 # Actuators

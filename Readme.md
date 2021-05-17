@@ -7,11 +7,9 @@ board. Arduino can be used to develop stand-alone interactive objects or
 can be connected to software on your computer. On this repository you find files 
 and can test. It will be distributed in several folders that can be accessed here:
 
-![Github](https://img.shields.io/github/v/release/arduino/Arduino)
+## Projects
 
-## More info at
-
--  [Our website](https://www.arduino.cc/)
+-  ![Sensor](ACS712/)
 
 -  [The forums](https://forum.arduino.cc/)
 

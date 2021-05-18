@@ -15,5 +15,6 @@ and can test. It will be distributed in several folders that can be accessed her
 -  [BH1750](BH1750/)
 -  [Button](Botao/)
 -  [DHT11](DHT11SensorTemperaturaHumidade/)
+-  [Encoder](Encoder_Sensor_de_velocidade_LM393/)
 
 ## Actuators

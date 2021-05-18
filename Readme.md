@@ -13,5 +13,6 @@ and can test. It will be distributed in several folders that can be accessed her
 
 -  [ACS712](ACS712/)
 -  [BH1750](BH1750/)
+-  [Button](Botao/)
 
 ## Actuators

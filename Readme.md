@@ -12,6 +12,6 @@ and can test. It will be distributed in several folders that can be accessed her
 ## Sensors
 
 -  [ACS712](ACS712/)
--  [BH1750]
+-  [BH1750](BH1750/)
 
 ## Actuators

@@ -19,6 +19,6 @@ and can test. It will be distributed in several folders that can be accessed her
 -  [Joystick](Joystick/)
 -  [LDR](LDR/)
 -  [TCRT5000](Sensor óptico reflexivo TCRT5000/)
--  [LM393]
+-  [LM393](Sensor_de_velocidade_LM393/)
 
 ## Actuators

@@ -18,7 +18,7 @@ and can test. It will be distributed in several folders that can be accessed her
 -  [Encoder](Encoder_Sensor_de_velocidade_LM393/)
 -  [Joystick](Joystick/)
 -  [LDR](LDR/)
--  [TCRT5000](Sensor óptico reflexivo TCRT5000/)
+-  [TCRT5000] (Sensor óptico reflexivo TCRT5000/)
 -  [LM393](Sensor_de_velocidade_LM393/)
 
 ## Actuators

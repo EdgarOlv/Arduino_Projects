@@ -19,5 +19,6 @@ and can test. It will be distributed in several folders that can be accessed her
 -  [Joystick](Joystick/)
 -  [LDR](LDR/)
 -  [LM393](Sensor_de_velocidade_LM393/)
+-  [Capacitive keyboard]
 
 ## Actuators

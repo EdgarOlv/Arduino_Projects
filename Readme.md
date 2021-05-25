@@ -22,6 +22,6 @@ and can test. It will be distributed in several folders that can be accessed her
 -  [Capacitive keyboard](Teclado-Capacitivo/)
 -  [Matrix Keyboard](TecladoMatricial/)
 -  [Temperature LM35](Temperatura_LM35/)
--  [infrared]
+-  [Infrared](infravermelho/)
 
 ## Actuators

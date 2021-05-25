@@ -21,6 +21,6 @@ and can test. It will be distributed in several folders that can be accessed her
 -  [LM393](Sensor_de_velocidade_LM393/)
 -  [Capacitive keyboard](Teclado-Capacitivo/)
 -  [Matrix Keyboard](TecladoMatricial/)
--  [Temperature LM35] 
+-  [Temperature LM35]](Temperatura_LM35/)
 
 ## Actuators

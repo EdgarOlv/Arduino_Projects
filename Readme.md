@@ -28,4 +28,4 @@ and can test. It will be distributed in several folders that can be accessed her
 
 -  [Bluetooth](Bluetooth/)
 -  [Button](Botao/)
--  [Buzzer]
+-  [Buzzer](Buzzer)

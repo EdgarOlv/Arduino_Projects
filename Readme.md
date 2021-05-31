@@ -19,9 +19,9 @@ and can test. It will be distributed in several folders that can be accessed her
 -  [Joystick](Joystick/)
 -  [LDR](LDR/)
 -  [LM393](Sensor_de_velocidade_LM393/)
--  [Capacitive keyboard](Teclado-Capacitivo/)
+-  [Capacitive keyboard](Teclado-Capacitivo/)   
 -  [Matrix Keyboard](TecladoMatricial/)
--  [Temperature LM35](Temperatura_LM35/)
+-  [Temperature LM35](Temperatura_LM35/)   
 -  [Infrared](infravermelho/)
 
 ## Actuators
@@ -29,4 +29,4 @@ and can test. It will be distributed in several folders that can be accessed her
 -  [Bluetooth](Bluetooth/)
 -  [Button](Botao/)
 -  [Buzzer](Buzzer/)
--  [Display8x8](Display8x8/)
+-  [Display8x8](Display8x8/)   

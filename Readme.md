@@ -30,4 +30,4 @@ and can test. It will be distributed in several folders that can be accessed her
 -  [Button](Botao/)
 -  [Buzzer](Buzzer/)
 -  [Display8x8](Display8x8/)
--  [DisplayLCD]
+-  [DisplayLCD](DisplayLCD/)

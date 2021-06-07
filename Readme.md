@@ -32,3 +32,4 @@ and can test. It will be distributed in several folders that can be accessed her
 -  [Display8x8](Display8x8/)
 -  [DisplayLCD](DisplayLCD/)
 -  [DisplayOLED](DisplayOLED)
+-  [Encoder LM393]

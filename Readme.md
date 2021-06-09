@@ -37,4 +37,4 @@ and can test. It will be distributed in several folders that can be accessed her
 -  [Led_13](Led_13/)
 -  [Led_RGB](Led_RGB/)
 -  [H Bridge_HG7881](Ponte_H_HG7881/)
--  [Ponte_H_L298N_PWM]
+-  [H Bridge_L298N_PWM]

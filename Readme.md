@@ -39,5 +39,5 @@ and can test. It will be distributed in several folders that can be accessed her
 -  [H Bridge_HG7881](Ponte_H_HG7881/)
 -  [H Bridge_L298N_PWM](Ponte_H_L298N_PWM/)
 -  [H Bridge_L298n](Ponte_H_L298n/)
--  [Rele](Rele)
+-  [Rele](Rele/)
 -  [Servo motor](Servo motor)

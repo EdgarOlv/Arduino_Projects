@@ -41,4 +41,4 @@ and can test. It will be distributed in several folders that can be accessed her
 -  [H Bridge_L298n](Ponte_H_L298n/)
 -  [Rele](Rele/)
 -  [Servo motor](Servo%20motor/)
--  [Infrared]
+-  [Infra-red]
